@@ -1,0 +1,36 @@
+body{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+.container{
+    display: inline;
+    height: 310px;
+    width: 100%;
+}
+.content{
+    background-color: lightgray;
+    text-align: center;
+    width: 25%;
+    height: 300px;
+    margin-top: 10px;
+    float: left;
+}
+.maincontent{
+    background-color: lightgray;
+    text-align: center;
+    width: 48%;
+    height: 300px;
+    margin-left: 400px;
+    margin-top: 15px;
+
+}
+.content1{
+    background-color: lightgray;
+    text-align: center;
+    width: 25%;
+    height: 300px;
+    float: right;
+    margin-top: -300px;
+}
